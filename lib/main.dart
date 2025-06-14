@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:samagra_clone/external_screens/Login_Page.dart';
 import 'package:samagra_clone/external_screens/Home_Page.dart';
+import 'package:samagra_clone/external_screens/SplashScreen.dart';
 import 'firebase_options.dart';
 
 void main() async {
@@ -49,7 +49,7 @@ class AuthWrapper extends StatelessWidget {
           return const Home_Page();
         }
 
-        return Login_Page();
+        return SplashScreen();
       },
     );
   }
