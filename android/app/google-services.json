@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121947744874",
+    "project_id": "samagra-clone-273d7",
+    "storage_bucket": "samagra-clone-273d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121947744874:android:97808dd245e9e46cc13813",
+        "android_client_info": {
+          "package_name": "com.example.samagra_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjMUbXAR9lYGguaF5XbhrrrlUrNa2G-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
