@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDikFdFp72-fFlplPX7Anj1dShliCJfM-s',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:121947744874:web:290c31215c3f4370c13813',
     messagingSenderId: '121947744874',
     projectId: 'samagra-clone-273d7',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAjMUbXAR9lYGguaF5XbhrrrlUrNa2G-yY',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:121947744874:android:97808dd245e9e46cc13813',
     messagingSenderId: '121947744874',
     projectId: 'samagra-clone-273d7',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDG1wUHimvCWkiEqeamdiGe-7lc_o4_C00',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:121947744874:ios:f1d393a2d45141c5c13813',
     messagingSenderId: '121947744874',
     projectId: 'samagra-clone-273d7',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDG1wUHimvCWkiEqeamdiGe-7lc_o4_C00',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:121947744874:ios:f1d393a2d45141c5c13813',
     messagingSenderId: '121947744874',
     projectId: 'samagra-clone-273d7',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDikFdFp72-fFlplPX7Anj1dShliCJfM-s',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:121947744874:web:7c34bc8b64c7711bc13813',
     messagingSenderId: '121947744874',
     projectId: 'samagra-clone-273d7',
