@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDikFdFp72-fFlplPX7Anj1dShliCJfM-s',
-    appId: '1:121947744874:web:290c31215c3f4370c13813',
-    messagingSenderId: '121947744874',
-    projectId: 'samagra-clone-273d7',
-    authDomain: 'samagra-clone-273d7.firebaseapp.com',
-    storageBucket: 'samagra-clone-273d7.firebasestorage.app',
+    apiKey: 'AIzaSyC3HuNUEN2-474o1zFg5R0_jqxPVHlkdmc',
+    appId: '1:806256295306:web:a79f07ba8da2fe751e5c73',
+    messagingSenderId: '806256295306',
+    projectId: 'samagra-clone-50f1c',
+    authDomain: 'samagra-clone-50f1c.firebaseapp.com',
+    storageBucket: 'samagra-clone-50f1c.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAjMUbXAR9lYGguaF5XbhrrrlUrNa2G-yY',
-    appId: '1:121947744874:android:97808dd245e9e46cc13813',
-    messagingSenderId: '121947744874',
-    projectId: 'samagra-clone-273d7',
-    storageBucket: 'samagra-clone-273d7.firebasestorage.app',
+    apiKey: 'AIzaSyBTqRtGONboH1BDwiD4UAqrFOHM9aB6w9s',
+    appId: '1:806256295306:android:d8b6a6bd1e1aae491e5c73',
+    messagingSenderId: '806256295306',
+    projectId: 'samagra-clone-50f1c',
+    storageBucket: 'samagra-clone-50f1c.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDG1wUHimvCWkiEqeamdiGe-7lc_o4_C00',
-    appId: '1:121947744874:ios:f1d393a2d45141c5c13813',
-    messagingSenderId: '121947744874',
-    projectId: 'samagra-clone-273d7',
-    storageBucket: 'samagra-clone-273d7.firebasestorage.app',
+    apiKey: 'AIzaSyC2OG_MWy1d27YOCY1eqDysTYD_0Kph6Mc',
+    appId: '1:806256295306:ios:fc549169686c88b81e5c73',
+    messagingSenderId: '806256295306',
+    projectId: 'samagra-clone-50f1c',
+    storageBucket: 'samagra-clone-50f1c.firebasestorage.app',
     iosBundleId: 'com.example.samagraClone',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDG1wUHimvCWkiEqeamdiGe-7lc_o4_C00',
-    appId: '1:121947744874:ios:f1d393a2d45141c5c13813',
-    messagingSenderId: '121947744874',
-    projectId: 'samagra-clone-273d7',
-    storageBucket: 'samagra-clone-273d7.firebasestorage.app',
+    apiKey: 'AIzaSyC2OG_MWy1d27YOCY1eqDysTYD_0Kph6Mc',
+    appId: '1:806256295306:ios:fc549169686c88b81e5c73',
+    messagingSenderId: '806256295306',
+    projectId: 'samagra-clone-50f1c',
+    storageBucket: 'samagra-clone-50f1c.firebasestorage.app',
     iosBundleId: 'com.example.samagraClone',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDikFdFp72-fFlplPX7Anj1dShliCJfM-s',
-    appId: '1:121947744874:web:7c34bc8b64c7711bc13813',
-    messagingSenderId: '121947744874',
-    projectId: 'samagra-clone-273d7',
-    authDomain: 'samagra-clone-273d7.firebaseapp.com',
-    storageBucket: 'samagra-clone-273d7.firebasestorage.app',
+    apiKey: 'AIzaSyC3HuNUEN2-474o1zFg5R0_jqxPVHlkdmc',
+    appId: '1:806256295306:web:aacab41f261822bc1e5c73',
+    messagingSenderId: '806256295306',
+    projectId: 'samagra-clone-50f1c',
+    authDomain: 'samagra-clone-50f1c.firebaseapp.com',
+    storageBucket: 'samagra-clone-50f1c.firebasestorage.app',
   );
 }
